@@ -10,7 +10,7 @@ public class SbwebappApplication {
 
 		SpringApplication.run(SbwebappApplication.class, args);
 		System.out.println("My name is Alfred");
-		 
+		System.out.println("Hello Hi");
 	}
 
 }
